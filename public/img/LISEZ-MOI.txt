@@ -1,0 +1,3 @@
+Dépose ici tes photos (portrait.jpg, hero.jpg, ...).
+Ensuite, dans config.py, renseigne leur chemin dans PHOTOS, par exemple "/img/portrait.jpg".
+Conseil : des images de moins de 500 Ko, en largeur 1600 px maximum, pour que le site reste rapide.
