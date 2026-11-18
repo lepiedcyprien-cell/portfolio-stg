@@ -167,7 +167,7 @@
       <div class="actions rv" style="--i:4">
         <a class="btn btn--solid" href="{{ cv_href }}"{% if c.CV_URL %} target="_blank" rel="noopener"{% endif %}>{{ cv_label }}</a>
         {% if c.LINKEDIN %}<a class="btn" href="{{ c.LINKEDIN }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>{% endif %}
-        {% if c.EMAIL %}<a class="btn" href="mailto:{{ c.EMAIL }}">Écrire un e-mail</a>{% endif %}
+        {% if c.EMAIL %}<a class="btn" href="{{ c.EMAIL }}" target="_blank" rel="noopener noreferrer">Écrire un e-mail</a>{% endif %}
       </div>
     </div>
   </div>
