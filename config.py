@@ -14,7 +14,7 @@ SECTEUR = "Vente automobile"
 LIEU = "Rambouillet et environs"
 
 # ------------------------------------------------------------------ liens
-LINKEDIN = "www.linkedin.com/in/cyprien-lepied-051102356"  # <- ton profil LinkedIn
+LINKEDIN = "https://www.linkedin.com/in/cyprien-lepied-051102356/"  # <- ton profil LinkedIn
 GITHUB = "https://github.com/lepiedcyprien-cell/portfolio-stage"  # <- ton dépôt GitHub
 EMAIL = "lepiedcyprien@gmail.com"  # <- ton adresse e-mail
 CV_URL = "/_CV LEPIED Cyprien.stg.pdf"
@@ -84,12 +84,6 @@ PASSIONS = [
         "titre": "Moteurs et mécanique",
         "texte": "Compresseurs volumétriques, quatre cylindres, moteurs boxer, gros V8 américains : "
         "j'aime comprendre ce qui se passe sous le capot, et pouvoir l'expliquer simplement.",
-    },
-    {
-        "visuel": "route",
-        "titre": "Road trips",
-        "texte": "Je prépare un road trip en van aménagé vers le nord de l'Italie. "
-        "Choisir le véhicule, l'itinéraire et le budget fait partie du plaisir.",
     },
     {
         "visuel": "chiffres",
