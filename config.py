@@ -17,7 +17,7 @@ LIEU = "Rambouillet et environs"
 LINKEDIN = "https://www.linkedin.com/in/cyprien-lepied-051102356/"  # <- ton profil LinkedIn
 GITHUB = "https://github.com/lepiedcyprien-cell/portfolio-stage"  # <- ton dépôt GitHub
 EMAIL_LINK = "javascript:window.open('https://google.com', '_blank');"
-CV_URL = "https://drive.google.com/file/d/1ZEUvi0ajeQhrpERoPTnFBpLYMEZuiJG7/view?usp=sharing"
+CV_URL = "https://google.com"
 # puis écris "/cv.pdf". Tant que c'est vide, le bouton propose de demander le CV par e-mail.
 CV_URL = ""
 
