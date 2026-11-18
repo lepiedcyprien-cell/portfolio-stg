@@ -139,7 +139,7 @@
     <p class="lede hero__lede">{{ c.TITRE }}.<br>{{ c.ACCROCHE }}</p>
     <div class="actions hero__actions">
       <a class="btn btn--solid" href="#moi">Découvrir mon parcours</a>
-      <a class="btn" href="{{ cv_href }}"{% if c.CV_URL %} target="_blank" rel="noopener"{% endif %}>{{ cv_label }}</a>
+      <a class="btn" href="{{ cv_href }}" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">{{ cv_label }}</a>
     </div>
   </div>
   <a class="cue" href="#moi" aria-label="Défiler vers la présentation"><span class="cue__line"></span>Défiler</a>
